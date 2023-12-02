@@ -1,2 +1,2 @@
 # Hotel Management System
- Simple Program in c Language
+ This is a simple Program in c Language
